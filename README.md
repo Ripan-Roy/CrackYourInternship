@@ -17,7 +17,7 @@ Date - 05/05/2022 => Problems Solved - 2
 
 Date - 06/05/2022 => Problems Solved - 4
 
-Date - 07/05/2022 =>
+Date - 07/05/2022 => Problems Solved - 0
 
 Date - 08/05/2022 => Problems Solved - 3
 
@@ -27,4 +27,4 @@ Date - 10-05-2022 => Problems Solved - 0
 
 Date - 11/05/2022 => Problems Solved - 3
 
-Date - 12/05/2022 => Problems Solved - 
+Date - 12/05/2022 => Problems Solved - 1
