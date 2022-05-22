@@ -9,7 +9,7 @@ Batch - 2024
 
 College - Techno India University
 
-Total Solved - 35
+Total Solved - 40
 
 Date - 03/05/2022 => Problems Solved - 5 
 
@@ -19,13 +19,9 @@ Date - 05/05/2022 => Problems Solved - 2
 
 Date - 06/05/2022 => Problems Solved - 4
 
-Date - 07/05/2022 => Problems Solved - 0
-
 Date - 08/05/2022 => Problems Solved - 3
 
 Date - 09/05/2022 => Problems Solved - 2
-
-Date - 10/05/2022 => Problems Solved - 0
 
 Date - 11/05/2022 => Problems Solved - 3
 
@@ -37,10 +33,8 @@ Date - 14/05/2022 => Problems Solved - 3
 
 Date - 15/05/2022 => Problems Solved - 3
 
-Date - 16/05/2022 => Problems Solved - 0
-
 Date - 17/05/2022 => Problems Solved - 1 
 
 Date - 20/05/2022 => Problems Solved - 1
 
-Date - 21/05/2022 => Problems Solved - 8
+Date - 21/05/2022 => Problems Solved - 4
