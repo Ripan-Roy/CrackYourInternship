@@ -1,3 +1,8 @@
+//Implement Queue using Stack
+//Link - https://leetcode.com/problems/implement-queue-using-stacks/
+//T.C - O(1)
+//S.C - O(n)
+
 class MyQueue
 {
 public:
