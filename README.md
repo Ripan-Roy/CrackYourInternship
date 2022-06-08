@@ -39,4 +39,6 @@ Date - 20/05/2022 => Problems Solved - 1
 
 Date - 21/05/2022 => Problems Solved - 4
 
-Dare - 23/05/2022 => Problems Solved - 1
+Date - 23/05/2022 => Problems Solved - 1
+
+Date - 06/06/2022 => Problems Solved - 2
