@@ -1,3 +1,7 @@
+//Stack Using Deque
+//Link - https://practice.geeksforgeeks.org/problems/stack-using-deque/1
+T.C - O(n) 
+
 #include <bits/stdc++.h>
 using namespace std;
 class Stack
